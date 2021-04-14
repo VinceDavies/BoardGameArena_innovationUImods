@@ -2,6 +2,7 @@ This Project is a simple User Interface Modification for playing Innovation on B
 
 step 1:
 Download the Chrome extention "Stylus"
+https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
 
 step 2: 
 Open the extention and click "Write new style"
