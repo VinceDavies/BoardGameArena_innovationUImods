@@ -1,0 +1,49 @@
+/*bigger icons right side */
+
+.ressource_table{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transform: scale(1.4);
+}
+
+
+
+/*remove action indicators */
+
+.action_indicator.action_1{
+    display: none;
+}
+
+.action_indicator.action_2{
+    display: none;
+}
+
+
+
+
+/* increase size of icons on cards */
+
+.square.M.icon_6.in_tooltip{
+    transform: scale(1.8);
+}
+
+.square.M.icon_5.in_tooltip{
+    transform: scale(1.8);
+}
+
+.square.M.icon_4.in_tooltip{
+    transform: scale(1.8);
+}
+
+.square.M.icon_3.in_tooltip{
+    transform: scale(1.8);
+}
+
+.square.M.icon_2.in_tooltip{
+    transform: scale(1.8);
+}
+
+.square.M.icon_1.in_tooltip{
+    transform: scale(1.8);
+}
+
